@@ -1,6 +1,6 @@
 # 服务端口
 server:
-  port: 3001
+  port: 2001
 
 # 当前版本信息
 version:
